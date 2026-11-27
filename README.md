@@ -1,5 +1,6 @@
 # Контакты
 - Telegram-канал: https://t.me/RuslanSenatorov
+- Telegram-канал SENATOROVAI: https://t.me/SENATOROVAI
 
 # Улучшения репозитория
 - Улучшен [ишьюс ревью](https://github.com/SENATOROVAI/intro/issues/5), [обновлены пункты 1.7, 3.2](https://github.com/SENATOROVAI/intro/issues/13), спасибо [rizespbya](https://github.com/rizespbya)
